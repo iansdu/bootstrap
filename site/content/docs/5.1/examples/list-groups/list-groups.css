@@ -40,8 +40,8 @@
   border-radius: .5rem;
 }
 .list-group-radio .form-check-input {
-  margin-top: -.5em;
   z-index: 2;
+  margin-top: -.5em;
 }
 .list-group-radio .list-group-item:hover {
   background-color: var(--bs-light);
