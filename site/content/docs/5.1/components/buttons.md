@@ -242,7 +242,7 @@ buttons.forEach(function (button) {
 
 ### Variables
 
-<small class="d-inline-flex px-2 py-1 font-monospace text-muted border rounded-3">Added in v5.2.0</small>
+{{< added-in "5.2.0" >}}
 
 As part of Bootstrap's evolving CSS variables approach, buttons now use local CSS variables on `.btn` for enhanced real-time customization. Values for the CSS variables are set via Sass, so Sass customization is still supported, too.
 
