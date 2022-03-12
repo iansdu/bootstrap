@@ -309,7 +309,7 @@ var scrollSpy = bootstrap.ScrollSpy.getOrCreateInstance(scrollSpyContentEl) // R
 
 ### Options
 
-Options can be passed via data attributes or JavaScript. For data attributes, append the option name to `data-bs-`, as in `data-bs-offset=""`.
+{{< partial "js-data-attributes.html" >}}
 
 <table class="table">
   <thead>

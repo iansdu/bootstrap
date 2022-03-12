@@ -857,7 +857,7 @@ var myModal = new bootstrap.Modal(document.getElementById('myModal'), options)
 
 ### Options
 
-Options can be passed via data attributes or JavaScript. For data attributes, append the option name to `data-bs-`, as in `data-bs-backdrop=""`.
+{{< partial "js-data-attributes.html" >}}
 
 <table class="table">
   <thead>
